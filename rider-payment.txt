@@ -1,0 +1,3 @@
+Ride payment details
+Bike ID: B101
+Payment status: Completed
